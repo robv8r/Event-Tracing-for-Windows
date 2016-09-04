@@ -1,0 +1,13 @@
+# Develop override settings
+
+url: http://127.0.0.1:4001
+port: 4001
+
+analytics:
+  provider: false
+
+comments:
+  provider: false
+
+sass:
+  style: expanded
